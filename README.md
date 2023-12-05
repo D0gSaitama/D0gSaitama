@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D0gSaitama
 
-- 🌱 I’m currently learning about all i can learn
+- 🌱 I’m currently learning Java, SpringBoot, MySQL. 
 
 
 <!---
